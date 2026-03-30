@@ -1,0 +1,5 @@
+1、熟悉两天代码
+
+2、手搓mqtt client，重点是mqtt协议格式
+
+3、设备配网连接不上隐藏wifi，排查问题。wpa_supplicant的配置文件中network模块中应当添加scan_ssid=1以及proto=RSN
